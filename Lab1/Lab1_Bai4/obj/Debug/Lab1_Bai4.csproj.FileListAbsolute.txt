@@ -1,0 +1,8 @@
+D:\Lab1\Lab1_Bai4\bin\Debug\Lab1_Bai4.exe.config
+D:\Lab1\Lab1_Bai4\bin\Debug\Lab1_Bai4.exe
+D:\Lab1\Lab1_Bai4\bin\Debug\Lab1_Bai4.pdb
+D:\Lab1\Lab1_Bai4\obj\Debug\Lab1_Bai4.csproj.AssemblyReference.cache
+D:\Lab1\Lab1_Bai4\obj\Debug\Lab1_Bai4.csproj.SuggestedBindingRedirects.cache
+D:\Lab1\Lab1_Bai4\obj\Debug\Lab1_Bai4.csproj.CoreCompileInputs.cache
+D:\Lab1\Lab1_Bai4\obj\Debug\Lab1_Bai4.exe
+D:\Lab1\Lab1_Bai4\obj\Debug\Lab1_Bai4.pdb
